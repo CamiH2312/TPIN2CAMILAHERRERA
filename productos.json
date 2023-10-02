@@ -1,0 +1,52 @@
+[
+  {
+    "id": "celu 1",
+    "nombre": "Modelo N°1",
+    "imagen": "./img/cel1.jpg",
+    "descripcion": "Samsung Z Flip 4, 128GB, Rosa",
+    "descripcionLarga": "El Samsung Z Flip4 posee un tamaño compacto, ideal para deslizarse por el bolsillo al guardarlo y, también, ofrece la posibilidad de utilizarlo de forma plegada o abierta. Tiene un vidrio Ultra Thin glass, lo que ofrece una hermosa vista a su espectacular pantalla de 6,7 pulgadas. Además, cuenta con una pantalla Cover Screen personalizable de 1,9 pulgadas.",
+    "precio": 450000,
+    "estrellas":"⭐⭐⭐⭐"
+
+  },
+
+  {
+    "id": "celu 2",
+    "nombre": "Modelo N°2",
+    "imagen": "./img/celu2.jpg",
+    "descripcion": "Samsung A23, 128GB, Negro",
+    "descripcionLarga": "Galaxy A23 5G combina el poder de la plataforma móvil Snapdragon con hasta 4GB de memoria para alcanzar un rendimiento rápido y eficiente que puede con cualquier tarea. Disfrutá sus hasta 128GB de almacenamiento interno y añadí hasta 1TB más con una tarjeta MicroSD.",
+    "precio": 230999,
+    "estrellas":"⭐⭐⭐⭐"
+  },
+
+  {
+    "id": "celu 3",
+    "nombre": "Modelo N°3",
+    "imagen": "./img/celu3.jpg",
+    "descripcion": "Samsung Galaxy A14, 128GB, Silver",
+    "descripcionLarga": "Con el Galaxy A14 experimentá todo en colores verdaderos y de alta definición con la tecnología de pantalla FHD+. LLENÁ TU VIDA DE COLOR Un estilizado diseño minimalista se fusiona con toques de color. EXPLORÁ TU CREATIVIDAD CON MÚLTIPLES CÁMARAS Salí y tomá fotos de grandes paisajes con la cámara ultra gran angular y un espectro completo de colores con la cámara principal de 50 MP.",
+    "precio": 122999,
+    "estrellas":"⭐⭐⭐"
+  },
+
+  {
+    "id": "celu 4",
+    "nombre": "Modelo N°4",
+    "imagen": "./img/cel4.jpg",
+    "descripcion": "Tecno Spark Go 2023, 64GB, Negro",
+    "descripcionLarga": "Pantalla de 6.6 HD (720x1612) + pantalla dot-in, tasa de refresco 90Hz. Procesador Mediatek Helio A22 Quad Core de 4 x 2 Ghz. Almacenamiento de 64 GB ROM. Memoria RAM de 4 GB. Camara trasera de 13 MP / Camara frontal de 5 MP. Conexiones: Wifi 2.4. Bluetooth 5.0. Lector de tarjetas. Radio FM. GPS. Sistema operativo android 12. Bateria de 5000 mAh. Incluye: Cable USB, llave SIM y funda de TPU.",
+    "precio": 70000,
+    "estrellas":"⭐⭐⭐"
+  },
+
+  {
+    "id": "celu 5",
+    "nombre": "Modelo N°5",
+    "imagen": "./img/cel5.jpg",
+    "descripcion": "TCL 40se, 128GB, Dark Gray",
+    "descripcionLarga": "Marca: TCL Modelo: T610P-BALCAR11 Pantalla: 6.75” HD + Mini-Notch. Resolución de Pantalla: 720x1600px Resolución de Video: 1080p30fps Sistema Operativo: Android 13 Memoria:128gb Memoria Ram:4gb Batería:5010mAh Cámara:50MP+2MP+2MP Procesador: Octa-Core Desbloqueo: reconocimiento facial y huella digital. Red Móvil: 4g Dual Sim: No Sensores: GPS, BDS, Galileo, Acelerómetro (Sensor G), Proximidad (Sensor P), Sensor de luces Dimensiones: 167.91 x76,5 x 8.45mm Peso: 190gr Incluye accesorios: funda, auriculares, extractor de SimCard, USB tipo C y cargador.",
+    "precio": 105000,
+    "estrellas":"⭐⭐⭐⭐"
+  }
+]

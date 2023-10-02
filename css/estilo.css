@@ -1,0 +1,197 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@300&family=Bebas+Neue&family=Changa&family=Orbitron:wght@500&family=Tomorrow:wght@600&display=swap');
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Alegreya Sans SC';
+  font-weight: 1000;
+
+}
+
+main {
+    background-image: url("../img/fondito.jpg");
+   
+  
+    
+}
+
+
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: #ffffff;
+  font-family: 'Tomorrow';
+}
+
+.titulo {
+  padding-top: 20px;
+  text-align: center;
+  background-image: url("../img/recu1.png");
+  height: 90px;
+
+  
+}
+
+h2 {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+    font-family: 'Orbitron';
+}
+
+h3 {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 10px;
+  font-family: 'Changa';
+  font-size: 30px;
+    color: #000000;
+}
+
+.lista {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+  width: 1150px;
+  background-color: rgba(255, 248, 248, 0.856);
+  
+}
+
+.tarj {
+  
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    margin:100px;
+ background-image: url("../img/fondo.jpg");
+  box-shadow: 0 2px 6px 0 #ffffff;
+}
+
+.tarj > img {
+    width: 100%;
+    height: 250px;
+}
+
+.price {
+    color: #3a3acb;
+    font-size: 22px;
+  font-weight: 500;
+  font-family:'Bebas Neue';
+}
+
+.tarj button {
+    border-radius: 2px;
+    outline: 0;
+    padding: 12px;
+    color: #e87dc1;
+  font-family:'Bebas Neue';
+  font-size: 25px;
+    background-color:#ffffff;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 5px;
+}
+
+.description {
+    color: black;
+  font-size: 20px;
+}
+
+/* Contenido */
+
+.tarj2 {
+
+    margin: auto;
+    text-align: center;
+    margin: 5px;
+}
+
+.imagen-descripcion {
+    display: flex;
+}
+
+.imagen {
+    display: flex;
+    border-radius: 10px;
+    width: 50%;
+}
+
+.atras {
+  width: 80px;
+  height: 30px;
+background-color: white;
+  color: #ff0066;
+    
+}
+
+.descriptionLarge {
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+    line-height: 40px;
+}
+
+.price-product {
+    color: #000000;
+    font-size: 35px;
+    padding-top: 10px;
+}
+
+.bi-star-fill {
+    color: #533df5;
+}
+
+.volver {
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    outline: 0;
+    padding: 12px;
+    color: #f990d8;
+    background-color:white;
+    text-align: center;
+    cursor: pointer;
+    width: 150px;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+footer {
+    width: 100%;
+    text-align: center;
+   background-image:url("../img/recu1.png");
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+@media screen and (max-width: 400px) {
+    .imagen-descripcion {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .descriptionLarge {
+        color: black;
+        font-size: 10px;
+        padding: 10px;
+        line-height: 20px;
+    }
+
+    .imagen {
+        display: flex;
+        border-radius: 5px;
+        width: 100%;
+    }
+    
+
+}
